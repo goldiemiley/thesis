@@ -1,8 +1,6 @@
-# IMQF Master’s Thesis — Spanish Portfolio Dataset
+# IMQF Master’s Thesis: Spanish Portfolio Dataset
 
-This repository provides a downloadable snapshot of the dataset used for my master’s thesis in the International Master in Quantitative Finance programme at the University of Belgrade.
-
-**Student:** Dea Peni Larasati
+This repository provides a downloadable snapshot of the dataset used for my master’s thesis in the International Master in Quantitative Finance programme.
 
 ## Download the dataset
 
@@ -31,11 +29,6 @@ The source contains anonymised motor insurance records covering January 2022–D
 The source dataset is distributed under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/).
 
 Credit for the original dataset belongs to its authors. My contribution concerns the preparation and analysis undertaken for my master’s thesis; the original authors do not endorse this work.
-
-### Changes to the source data
-
-[Before uploading, describe any format conversion, column renaming, filtering, cleaning, or additional variables. If no changes were made, state this explicitly.]
-
 
 ## BigQuery working table
 
