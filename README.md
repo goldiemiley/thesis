@@ -7,6 +7,7 @@ Data documentation for my master's thesis in the **International Master in Quant
 | File | Description |
 |---|---|
 | `Descriptive of variables.xlsx` | Descriptive statistics for the variables used in the thesis |
+| [`LITERATURE.md`](LITERATURE.md) | Annotated literature review: 17 sources on GLM versus machine-learning pricing, calibration, financial consequences, interpretability and fairness |
 
 ## Dataset
 
